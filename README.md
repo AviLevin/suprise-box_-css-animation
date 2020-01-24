@@ -21,7 +21,7 @@ More requirements:
 6. The development tools are js and css only
 CSS Animation, Delay, Transform methods must be used
 
-7.The animation should work in IE11 / Edge / Firefox / Chrome browsers
+7. The animation should work in IE11 / Edge / Firefox / Chrome browsers
 
 8. The box should be in the center of the screen of the page
 Center up and down And center of left and right
